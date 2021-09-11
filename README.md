@@ -1,4 +1,4 @@
-![Alt-текст](https://github.com/arturtkachenko93/gulp-assembly/blob/master/source/img/github.gif?raw=true "My name is Artur!")
+![Alt-текст](https://s9.gifyu.com/images/ANIMIROVANNYI-LOGOTIP-500x500-PIKS.gif?raw=true "My name is Artur!")
 
 Skills: JS / HTML / SCSS
 
