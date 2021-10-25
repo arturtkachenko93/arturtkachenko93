@@ -1,4 +1,4 @@
-![Alt-текст](https://s9.gifyu.com/images/ANIMIROVANNYI-LOGOTIP-500x500-PIKS.gif?raw=true "My name is Artur!")
+![Alt-текст](https://cdn.dribbble.com/users/1139587/screenshots/5823943/tcc_logo_animation_800x600_07.gif?raw=true "My name is Artur!")
 
 Skills: JS / HTML / SCSS
 
