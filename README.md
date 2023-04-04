@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Frontend+developer)](https://git.io/typing-svg)
 
-Skills: React / Redux / JS / HTML / SCSS / CSS Modules
+Skills: React / Redux / JS / TS / SCSS
 
 [<img src='https://cdn.icon-icons.com/icons2/3154/PNG/512/instagram_media_multimedia_social_icon_193166.png' alt='instagram' height='40'>](https://www.instagram.com/archibracho/)  [<img src='https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_vk_vkontakte_icon_143187.png' alt='vk' height='40'>](https://vk.com/nejnyivozrast)  
 
